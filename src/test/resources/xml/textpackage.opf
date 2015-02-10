@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" prefix="rendition: http://www.idpf.org/vocab/rendition# ibooks: http://vocabulary.itunes.apple.com/rdf/ibooks/vocabulary-extensions-1.0/" unique-identifier="e9780141339214" version="3.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:title id="t1">Heroes of Olympus: The House of Hades</dc:title>
+    <meta refines="#t1" property="title-type">main</meta>
+    <dc:creator id="creator">Rick Riordan</dc:creator>
+    <meta refines="#creator" property="role" scheme="marc:relators" id="role">aut</meta>
+    <meta refines="#creator" property="file-as">Riordan, Rick</meta>
+    <dc:identifier id="e9780141339214">urn:isbn:9780141339214</dc:identifier>
+    <meta refines="#e9780141339214" property="identifier-type" scheme="onix:codelist5">15</meta>
+    <dc:source id="p9780141339184">urn:isbn:9780141339184</dc:source>
+    <meta refines="#p9780141339184" property="identifier-type" scheme="onix:codelist5">15</meta>
+    <dc:publisher>Penguin Books Ltd</dc:publisher>
+    <dc:date id="published">2013-09-08</dc:date>
+    <meta name="specification" content="2013-04-10" />
+    <meta name="version" content="1.0.0" />
+    <meta property="ibooks:version">1.0.0</meta>
+    <meta property="dcterms:modified">2013-08-29T12:00:00Z</meta>
+    <meta name="cover" content="cover-image" />
+    <meta name="imprint" content="Penguin" />
+    <dc:type>Text</dc:type>
+    <dc:format>608 pages</dc:format>
+    <dc:language>en</dc:language>
+    <dc:rights>All rights reserved.</dc:rights>
+  </metadata>
+  <manifest>
+    <item id="nav" properties="nav" href="nav.xhtml" media-type="application/xhtml+xml" />
+    <item id="atitle" href="images/title.jpg" media-type="image/jpeg" />
+    <item id="chapter001" href="xhtml/chapter001.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter002" href="xhtml/chapter002.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter003" href="xhtml/chapter003.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter004" href="xhtml/chapter004.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter005" href="xhtml/chapter005.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter006" href="xhtml/chapter006.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter007" href="xhtml/chapter007.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter008" href="xhtml/chapter008.xhtml" media-type="application/xhtml+xml" />
+    <item id="chapter009" href="xhtml/chapter009.xhtml" media-type="application/xhtml+xml" />
+    <item id="html-toc" href="xhtml/toc.xhtml" media-type="application/xhtml+xml" />
+    <item id="brand" href="xhtml/brand.xhtml" media-type="application/xhtml+xml" />
+    <item id="dedication" href="xhtml/dedication.xhtml" media-type="application/xhtml+xml" />
+    <item id="OtherBooksBy" href="xhtml/OtherBooksBy.xhtml" media-type="application/xhtml+xml" />
+    <item id="title" href="xhtml/title.xhtml" media-type="application/xhtml+xml" />
+    <item id="stylesheet" href="styles/stylesheet.css" media-type="text/css" />
+    <item id="image3" href="images/brand.jpg" media-type="image/jpeg" />
+    <item id="image4" href="images/logo.png" media-type="image/png" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="brand" />
+    <itemref idref="title" />
+    <itemref idref="html-toc" />
+    <itemref idref="OtherBooksBy" />
+    <itemref idref="dedication" />
+    <itemref idref="chapter001" properties="page-spread-right" />
+    <itemref idref="chapter002" />
+    <itemref idref="chapter003" />
+    <itemref idref="chapter004" />
+    <itemref idref="chapter005" />
+    <itemref idref="chapter006" />
+    <itemref idref="chapter007" />
+    <itemref idref="chapter008" />
+    <itemref idref="chapter009" />
+  </spine>
+  <guide>
+    <reference type="toc" title="Contents" href="xhtml/toc.xhtml" />
+    <reference type="text" title="Begin Reading" href="xhtml/brand.xhtml" />
+  </guide>
+</package>

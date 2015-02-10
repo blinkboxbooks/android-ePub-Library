@@ -1,0 +1,405 @@
+{
+    "opfPath": "OPS/package.opf", 
+    "sample": true, 
+    "spine": [
+        {
+            "href": "OPS/xhtml/brand.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 0
+        }, 
+        {
+            "href": "OPS/xhtml/title.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 13
+        }, 
+        {
+            "href": "OPS/xhtml/toc.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 197
+        }, 
+        {
+            "href": "OPS/xhtml/dedication.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 5
+        }, 
+        {
+            "href": "OPS/xhtml/introduction.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 5267
+        }, 
+        {
+            "href": "OPS/xhtml/chapter001.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 4197
+        }, 
+        {
+            "href": "OPS/xhtml/chapter002.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 3263
+        }, 
+        {
+            "href": "OPS/xhtml/chapter003.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 4394
+        }, 
+        {
+            "href": "OPS/xhtml/chapter004.html", 
+            "linear": true, 
+            "mediaType": "application/xhtml+xml", 
+            "wordCount": 1656
+        }
+    ], 
+    "toc": [
+        {
+            "active": false, 
+            "href": "OPS/xhtml/cover.html", 
+            "label": "Cover"
+        }, 
+        {
+            "active": true, 
+            "href": "OPS/xhtml/title.html", 
+            "label": "Title Page"
+        }, 
+        {
+            "active": true, 
+            "href": "OPS/xhtml/toc.html", 
+            "label": "Contents"
+        }, 
+        {
+            "active": true, 
+            "href": "OPS/xhtml/dedication.html", 
+            "label": "Dedication"
+        }, 
+        {
+            "active": true, 
+            "href": "OPS/xhtml/introduction.html", 
+            "label": "Introduction"
+        }, 
+        {
+            "active": true, 
+            "children": [
+                {
+                    "active": true, 
+                    "children": [
+                        {
+                            "active": true, 
+                            "href": "OPS/xhtml/chapter001.html#page_19", 
+                            "label": "1. The Characters of the Story"
+                        }, 
+                        {
+                            "active": true, 
+                            "href": "OPS/xhtml/chapter002.html", 
+                            "label": "2. Attention and Effort"
+                        }, 
+                        {
+                            "active": true, 
+                            "href": "OPS/xhtml/chapter003.html", 
+                            "label": "3. The Lazy Controller"
+                        }, 
+                        {
+                            "active": true, 
+                            "href": "OPS/xhtml/chapter004.html", 
+                            "label": "4. The Associative Machine"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter005.html", 
+                            "label": "5. Cognitive Ease"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter006.html", 
+                            "label": "6. Norms, Surprises, and Causes"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter007.html", 
+                            "label": "7. A Machine for Jumping to Conclusions"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter008.html", 
+                            "label": "8. How Judgments Happen"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter009.html", 
+                            "label": "9. Answering an Easier Question"
+                        }
+                    ], 
+                    "href": "OPS/xhtml/chapter001.html#page_17", 
+                    "label": "Part I. Two Systems"
+                }, 
+                {
+                    "active": false, 
+                    "children": [
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter010.html#page_109", 
+                            "label": "10. The Law of Small Numbers"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter011.html", 
+                            "label": "11. Anchors"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter012.html", 
+                            "label": "12. The Science of Availability"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter013.html", 
+                            "label": "13. Availability, Emotion, and Risk"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter014.html", 
+                            "label": "14. Tom W\u2019s Specialty"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter015.html", 
+                            "label": "15. Linda: Less Is More"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter016.html", 
+                            "label": "16. Causes Trump Statistics"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter017.html", 
+                            "label": "17. Regression to the mean"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter018.html", 
+                            "label": "18. Taming Intuitive Predictions"
+                        }
+                    ], 
+                    "href": "OPS/xhtml/chapter010.html", 
+                    "label": "Part II. Heuristics and Biases"
+                }, 
+                {
+                    "active": false, 
+                    "children": [
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter019.html#page_199", 
+                            "label": "19. The Illusion of Understanding"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter020.html", 
+                            "label": "20. The Illusion of Validity"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter021.html", 
+                            "label": "21. Intuitions vs. Formulas"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter022.html", 
+                            "label": "22. Expert Intuition: When Can We Trust It?"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter023.html", 
+                            "label": "23. The Outside View"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter024.html", 
+                            "label": "24. The Engine of Capitalism"
+                        }
+                    ], 
+                    "href": "OPS/xhtml/chapter019.html", 
+                    "label": "Part III. Overconfidence"
+                }, 
+                {
+                    "active": false, 
+                    "children": [
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter025.html#page_269", 
+                            "label": "25. Bernoulli\u2019s Errors"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter026.html", 
+                            "label": "26. Prospect Theory"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter027.html", 
+                            "label": "27. The Endowment Effect"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter028.html", 
+                            "label": "28. Bad Events"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter029.html", 
+                            "label": "29. The Fourfold Pattern"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter030.html", 
+                            "label": "30. Rare Events"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter031.html", 
+                            "label": "31. Risk Policies"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter032.html", 
+                            "label": "32. Keeping Score"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter033.html", 
+                            "label": "33. Reversals"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter034.html", 
+                            "label": "34. Frames and Reality"
+                        }
+                    ], 
+                    "href": "OPS/xhtml/chapter025.html", 
+                    "label": "Part IV. Choices"
+                }, 
+                {
+                    "active": false, 
+                    "children": [
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter035.html#page_377", 
+                            "label": "35. Two Selves"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter036.html", 
+                            "label": "36. Life as a Story"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter037.html", 
+                            "label": "37. Experienced Well-Being"
+                        }, 
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/chapter038.html", 
+                            "label": "38. Thinking About Life"
+                        }
+                    ], 
+                    "href": "OPS/xhtml/chapter035.html", 
+                    "label": "Part V. Two Selves"
+                }
+            ], 
+            "href": "OPS/xhtml/chapter001.html", 
+            "label": "Thinking, Fast and Slow"
+        }, 
+        {
+            "active": false, 
+            "href": "OPS/xhtml/conclusions.html", 
+            "label": "Conclusions"
+        }, 
+        {
+            "active": false, 
+            "href": "OPS/xhtml/appendixA.html", 
+            "label": "Appendix A: Judgment Under unCertainty"
+        }, 
+        {
+            "active": false, 
+            "href": "OPS/xhtml/appendixB.html", 
+            "label": "Appendix B: Choices, Values, and Frames"
+        }, 
+        {
+            "active": false, 
+            "href": "OPS/xhtml/notes.html", 
+            "label": "Notes"
+        }, 
+        {
+            "active": false, 
+            "href": "OPS/xhtml/acknowledgments.html", 
+            "label": "Acknowledgments"
+        }, 
+        {
+            "active": false, 
+            "children": [
+                {
+                    "active": false, 
+                    "children": [
+                        {
+                            "active": false, 
+                            "children": [
+                                {
+                                    "active": false, 
+                                    "href": "OPS/xhtml/chapter009_fn.html#fnb1", 
+                                    "label": "Page 105"
+                                }
+                            ], 
+                            "href": "OPS/xhtml/chapter009_fn.html#fn2b", 
+                            "label": "9. Answering an Easier Question"
+                        }
+                    ], 
+                    "href": "OPS/xhtml/chapter009_fn.html#fn1", 
+                    "label": "Part I. Two Systems"
+                }, 
+                {
+                    "active": false, 
+                    "children": [
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/appendixA_fn.html#fnb2", 
+                            "label": "Page 419"
+                        }
+                    ], 
+                    "href": "OPS/xhtml/appendixA_fn.html#fn2", 
+                    "label": "Appendix A : Judgment Under Uncertainty: Heuristics and Biases"
+                }, 
+                {
+                    "active": false, 
+                    "children": [
+                        {
+                            "active": false, 
+                            "href": "OPS/xhtml/appendixB_fn.html#fnb3", 
+                            "label": "Page 433"
+                        }
+                    ], 
+                    "href": "OPS/xhtml/appendixB_fn.html#fn3", 
+                    "label": "Appendix B: Choices, Values, and Frames"
+                }
+            ], 
+            "href": "OPS/xhtml/chapter009_fn.html", 
+            "label": "Footnote"
+        }, 
+        {
+            "active": false, 
+            "href": "OPS/xhtml/copyright.html", 
+            "label": "Copyright"
+        }, 
+        {
+            "active": false, 
+            "href": "OPS/xhtml/endpage.html", 
+            "label": "Recently Published"
+        }
+    ], 
+    "version": "1.2"
+}

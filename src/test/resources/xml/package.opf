@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="p978140701335">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+    <dc:creator>Jo Nesbo</dc:creator>
+    <dc:source>URN:ISBN:978140701335</dc:source>
+    <dc:identifier id="p978140701335">URN:ISBN:978140701335</dc:identifier>
+    <dc:publisher>Harvill Secker</dc:publisher>
+    <dc:language>en</dc:language>
+    <dc:type>Text</dc:type>
+    <dc:title>Nemesis</dc:title>
+    <dc:format>470 pages</dc:format>
+    <dc:rights>All rights reserved</dc:rights>
+    <meta name="cover" content="my-cover-image" />
+  </metadata>
+  <manifest>
+    <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="Title" href="001 - Title.xhtml" media-type="application/xhtml+xml" />
+    <item id="Contents" href="002 - Contents.xhtml" media-type="application/xhtml+xml" />
+    <item id="Copyright" href="003 - Copyright.xhtml" media-type="application/xhtml+xml" />
+    <item id="Otherbooks" href="004 - Otherbooks.xhtml" media-type="application/xhtml+xml" />
+    <item id="Map" href="005 - Map.xhtml" media-type="application/xhtml+xml" />
+    <item id="Part_1" href="006 - Part_1.xhtml" media-type="application/xhtml+xml" />
+    <item id="Part1Chapter_1" href="007 - Chapter_1.xhtml" media-type="application/xhtml+xml" />
+    <item id="Part1Chapter_2" href="008 - Chapter_2.xhtml" media-type="application/xhtml+xml" />
+    <item id="Part1Chapter_3" href="009 - Chapter_3.xhtml" media-type="application/xhtml+xml" />
+    <item id="Part1Chapter_4" href="010 - Chapter_4.xhtml" media-type="application/xhtml+xml" />
+    <item id="Part1Chapter_5" href="011 - Chapter_5.xhtml" media-type="application/xhtml+xml" />
+    <item id="Part1Chapter_6" href="012 - Chapter_6.xhtml" media-type="application/xhtml+xml" />
+    <item id="css" href="standard_style.css" media-type="text/css" />
+    <item id="pt" href="page-template.xpgt" media-type="application/vnd.adobe-page-template+xml" />
+    <item id="image1" href="images/fsc.jpg" media-type="image/jpeg" />
+    <item id="image2" href="images/map.jpg" media-type="image/jpeg" />
+    <item id="image3" href="images/pub.jpg" media-type="image/jpeg" />
+    <item id="image4" href="images/star.jpg" media-type="image/jpeg" />
+  </manifest>
+  <spine toc="ncx">
+    <itemref idref="Title" />
+    <itemref idref="Contents" />
+    <itemref idref="Copyright" />
+    <itemref idref="Otherbooks" />
+    <itemref idref="Map" />
+    <itemref idref="Part_1" />
+    <itemref idref="Part1Chapter_1" />
+    <itemref idref="Part1Chapter_2" />
+    <itemref idref="Part1Chapter_3" />
+    <itemref idref="Part1Chapter_4" />
+    <itemref idref="Part1Chapter_5" />
+    <itemref idref="Part1Chapter_6" />
+  </spine>
+  <guide />
+</package>

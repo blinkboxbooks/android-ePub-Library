@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="ISBN" version="2.0">
+  <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:opf="http://www.idpf.org/2007/opf" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <dc:title>Stone Junction</dc:title>
+    <dc:creator opf:role="aut" opf:file-as="Jim Dodge">Jim Dodge</dc:creator>
+    <dc:language>en</dc:language>
+    <dc:identifier id="ISBN" opf:scheme="ISBN">9781847677242</dc:identifier>
+    <dc:subject>General Fiction</dc:subject>
+    <dc:publisher>Canongate</dc:publisher>
+    <dc:date opf:event="original-publication">1990</dc:date>
+    <dc:rights>© Jim Dodge, 1990</dc:rights>
+    <meta name="cover" content="9781847677242_cover_epub" />
+  </metadata>
+  <manifest>
+    <item id="atoc" href="toc.ncx" media-type="application/x-dtbncx+xml" />
+    <item id="a9781847677242_cover_epub" href="9781847677242_cover_epub.jpg" media-type="image/jpeg" />
+    <item id="alogo" href="logo.png" media-type="image/png" />
+    <item id="atitle_iii" href="title_iii.jpg" media-type="image/jpeg" />
+    <item id="a9781847677242" href="9781847677242.css" media-type="text/css" />
+    <item id="a9781847677242_cover" href="9781847677242_cover.html" media-type="application/xhtml+xml" />
+    <item id="a9781847677242_booktitlepage" href="9781847677242_booktitlepage.html" media-type="application/xhtml+xml" />
+    <item id="a9781847677242_dedication" href="9781847677242_dedication.html" media-type="application/xhtml+xml" />
+    <item id="a9781847677242_toc" href="9781847677242_toc.html" media-type="application/xhtml+xml" />
+    <item id="a9781847677242_introduction" href="9781847677242_introduction.html" media-type="application/xhtml+xml" />
+    <item id="a9781847677242_chapter_01" href="9781847677242_chapter_01.html" media-type="application/xhtml+xml" />
+  </manifest>
+  <spine toc="atoc">
+    <itemref idref="a9781847677242_cover" />
+    <itemref idref="a9781847677242_booktitlepage" />
+    <itemref idref="a9781847677242_dedication" />
+    <itemref idref="a9781847677242_toc" />
+    <itemref idref="a9781847677242_introduction" />
+    <itemref idref="a9781847677242_chapter_01" />
+  </spine>
+</package>

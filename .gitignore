@@ -1,0 +1,33 @@
+*.class
+*.dex
+
+# Package Files #
+*.war
+*.ear
+*.apk
+*.ap_
+
+# Generated files
+bin/
+gen/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Gradle build files
+build/
+.gradle/
+
+#OS Files
+.DS_Store
+
+#generated test file
+test.epub
+
+# IDEA/Android Studio project files, because
+# the project can be imported from settings.gradle
+.idea
+*.iml
+
+#Vagrant files
+.vagrant/

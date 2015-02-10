@@ -1,0 +1,90 @@
+defaultTasks 'clean', 'build', 'artifactoryPublish'
+
+group = 'com.blinkbox.books'
+version = '1.2.1'
+
+task wrapper(type: Wrapper) {
+    gradleVersion = '1.8'
+}
+
+apply plugin : 'java-robolectric'
+apply plugin : 'maven'
+sourceCompatibility = 1.6
+targetCompatibility = 1.6
+
+// get 'java-robolectric' from Maven Central
+buildscript {
+    repositories {
+        mavenCentral()
+		
+		maven {
+			url 'http://repo.jfrog.org/artifactory/gradle-plugins-snapshots'
+		}
+    }
+
+    dependencies {
+        // use version 2.0 for Robolectric 2.0
+        classpath group: 'com.stanfy.android', name: 'gradle-plugin-java-robolectric', version: '2.0'
+		classpath(group: 'org.jfrog.buildinfo', name: 'build-info-extractor-gradle', version: '2.2.4')
+    }
+}
+
+repositories {
+	mavenCentral()
+}
+
+allprojects {
+	apply plugin: 'artifactory'
+}
+ 
+artifactory {
+	contextUrl = "${artifactory_contextUrl}"   //The base Artifactory URL if not overridden by the publisher/resolver
+	
+	publish {
+		repository {
+			repoKey = 'mobile-releases'
+			username = "${artifactory_user}"
+			password = "${artifactory_password}"
+			maven = true
+			 
+		}
+	}
+	
+	resolve {
+		repository {
+			repoKey = 'mobile-releases'
+			username = "${artifactory_user}"
+			password = "${artifactory_password}"
+			maven = true
+			 
+		}
+	}
+}
+
+javarob {
+    packageName = 'com.blinkbox.books'
+}
+
+test {
+    scanForTestClasses = false
+    include "**/*Test.class"
+}
+
+dependencies {
+    compile "com.google.code.gson:gson:2.2.4"
+    compile fileTree(dir : 'libs', include : '*.jar')
+
+    compile group: 'com.google.android', name: 'android', version: '4.1.1.4'
+    testCompile group: 'junit', name: 'junit', version: '4.10'
+    testCompile group: 'org.robolectric', name: 'robolectric', version: '2.0-alpha-2'
+}
+
+task javadocJar(type: Jar, dependsOn:javadoc) {      
+    classifier = 'javadoc'     
+        from javadoc.destinationDir 
+}  
+
+artifacts {          
+    archives javadocJar
+}
+

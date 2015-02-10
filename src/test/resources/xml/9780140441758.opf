@@ -1,0 +1,432 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<package xmlns="http://www.idpf.org/2007/opf" version="2.0" unique-identifier="p9780140441758">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/">
+        <dc:title>A History of My Times</dc:title>
+        <dc:creator>Xenophon</dc:creator>
+        <dc:date>2007</dc:date>
+        <dc:identifier id="p9780140441758">ISBN: 978-0-14-192685-8</dc:identifier>
+        <dc:format>425 pages</dc:format>
+        <dc:coverage>London</dc:coverage>
+        <dc:coverage>New York</dc:coverage>
+        <dc:coverage>Ontario</dc:coverage>
+        <dc:coverage>Dublin</dc:coverage>
+        <dc:coverage>Camberwell</dc:coverage>
+        <dc:coverage>New Delhi</dc:coverage>
+        <dc:coverage>Albany</dc:coverage>
+        <dc:coverage>Rosebank</dc:coverage>
+        <dc:type>Text</dc:type>
+        <dc:language>en</dc:language>
+        <dc:rights>All rights reserved.</dc:rights>
+        <dc:publisher>Penguin Books</dc:publisher>
+    </metadata>
+    <manifest>
+        <item id="CharisSILB" href="fonts/CharisSILB.ttf" media-type="application/application/x-font-ttf" />
+        <item id="CharisSILBI" href="fonts/CharisSILBI.ttf" media-type="application/application/x-font-ttf" />
+        <item id="CharisSILI" href="fonts/CharisSILI.ttf" media-type="application/application/x-font-ttf" />
+        <item id="CharisSILR" href="fonts/CharisSILR.ttf" media-type="application/application/x-font-ttf" />
+        <item id="ncx" href="toc.ncx" media-type="application/x-dtbncx+xml"/>
+        <item id="cover" href="cover.html" media-type="application/xhtml+xml"/>
+        <item id="frontmatter" href="frontmatter.html" media-type="application/xhtml+xml"/>
+        <item id="introduction" href="introduction.html" media-type="application/xhtml+xml"/>
+        <item id="book01" href="book01.html" media-type="application/xhtml+xml"/>
+        <item id="book02" href="book02.html" media-type="application/xhtml+xml"/>
+        <item id="book03" href="book03.html" media-type="application/xhtml+xml"/>
+        <item id="book04" href="book04.html" media-type="application/xhtml+xml"/>
+        <item id="book05" href="book05.html" media-type="application/xhtml+xml"/>
+        <item id="book06" href="book06.html" media-type="application/xhtml+xml"/>
+        <item id="book07" href="book07.html" media-type="application/xhtml+xml"/>
+        <item id="appendix" href="appendix.html" media-type="application/xhtml+xml"/>
+        <item id="map1" href="map1.html" media-type="application/xhtml+xml"/>
+        <item id="map2" href="map2.html" media-type="application/xhtml+xml"/>
+        <item id="map3" href="map3.html" media-type="application/xhtml+xml"/>
+        <item id="map4" href="map4.html" media-type="application/xhtml+xml"/>
+        <item id="map5" href="map5.html" media-type="application/xhtml+xml"/>
+        <item id="map6" href="map6.html" media-type="application/xhtml+xml"/>
+        <item id="map7" href="map7.html" media-type="application/xhtml+xml"/>
+        <item id="index" href="index.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes01" href="bk01notes01.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes02" href="bk01notes02.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes03" href="bk01notes03.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes04" href="bk01notes04.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes05" href="bk01notes05.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes06" href="bk01notes06.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes07" href="bk01notes07.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes08" href="bk01notes08.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes09" href="bk01notes09.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes10" href="bk01notes10.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes11" href="bk01notes11.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes12" href="bk01notes12.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes13" href="bk01notes13.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes14" href="bk01notes14.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes15" href="bk01notes15.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes16" href="bk01notes16.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes17" href="bk01notes17.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes18" href="bk01notes18.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes19" href="bk01notes19.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes20" href="bk01notes20.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes21" href="bk01notes21.html" media-type="application/xhtml+xml"/>
+        <item id="bk01notes22" href="bk01notes22.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes01" href="bk02notes01.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes02" href="bk02notes02.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes03" href="bk02notes03.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes04" href="bk02notes04.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes05" href="bk02notes05.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes06" href="bk02notes06.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes07" href="bk02notes07.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes08" href="bk02notes08.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes09" href="bk02notes09.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes10" href="bk02notes10.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes11" href="bk02notes11.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes12" href="bk02notes12.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes13" href="bk02notes13.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes14" href="bk02notes14.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes15" href="bk02notes15.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes16" href="bk02notes16.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes17" href="bk02notes17.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes18" href="bk02notes18.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes19" href="bk02notes19.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes20" href="bk02notes20.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes21" href="bk02notes21.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes22" href="bk02notes22.html" media-type="application/xhtml+xml"/>
+        <item id="bk02notes23" href="bk02notes23.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes01" href="bk03notes01.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes02" href="bk03notes02.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes03" href="bk03notes03.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes04" href="bk03notes04.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes05" href="bk03notes05.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes06" href="bk03notes06.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes07" href="bk03notes07.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes08" href="bk03notes08.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes09" href="bk03notes09.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes10" href="bk03notes10.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes11" href="bk03notes11.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes12" href="bk03notes12.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes13" href="bk03notes13.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes14" href="bk03notes14.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes15" href="bk03notes15.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes16" href="bk03notes16.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes17" href="bk03notes17.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes18" href="bk03notes18.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes19" href="bk03notes19.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes20" href="bk03notes20.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes21" href="bk03notes21.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes22" href="bk03notes22.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes23" href="bk03notes23.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes24" href="bk03notes24.html" media-type="application/xhtml+xml"/>
+        <item id="bk03notes25" href="bk03notes25.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes01" href="bk04notes01.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes02" href="bk04notes02.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes03" href="bk04notes03.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes04" href="bk04notes04.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes05" href="bk04notes05.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes06" href="bk04notes06.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes08" href="bk04notes08.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes10" href="bk04notes10.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes11" href="bk04notes11.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes13" href="bk04notes13.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes14" href="bk04notes14.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes15" href="bk04notes15.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes16" href="bk04notes16.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes213" href="bk04notes213.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes17" href="bk04notes17.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes18" href="bk04notes18.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes20" href="bk04notes20.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes21" href="bk04notes21.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes22" href="bk04notes22.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes23" href="bk04notes23.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes24" href="bk04notes24.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes25" href="bk04notes25.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes26" href="bk04notes26.html" media-type="application/xhtml+xml"/>
+        <item id="bk04notes27" href="bk04notes27.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes01" href="bk05notes01.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes02" href="bk05notes02.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes03" href="bk05notes03.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes04" href="bk05notes04.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes05" href="bk05notes05.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes06" href="bk05notes06.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes07" href="bk05notes07.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes08" href="bk05notes08.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes10" href="bk05notes10.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes12" href="bk05notes12.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes13" href="bk05notes13.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes14" href="bk05notes14.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes16" href="bk05notes16.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes17" href="bk05notes17.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes18" href="bk05notes18.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes19" href="bk05notes19.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes20" href="bk05notes20.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes22" href="bk05notes22.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes23" href="bk05notes23.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes25" href="bk05notes25.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes27" href="bk05notes27.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes29" href="bk05notes29.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes30" href="bk05notes30.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes33" href="bk05notes33.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes34" href="bk05notes34.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes35" href="bk05notes35.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes36" href="bk05notes36.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes37" href="bk05notes37.html" media-type="application/xhtml+xml"/>
+        <item id="bk05notes39" href="bk05notes39.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes01" href="bk06notes01.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes02" href="bk06notes02.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes03" href="bk06notes03.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes04" href="bk06notes04.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes06" href="bk06notes06.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes08" href="bk06notes08.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes09" href="bk06notes09.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes11" href="bk06notes11.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes12" href="bk06notes12.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes13" href="bk06notes13.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes14" href="bk06notes14.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes16" href="bk06notes16.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes17" href="bk06notes17.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes18" href="bk06notes18.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes19" href="bk06notes19.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes20" href="bk06notes20.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes21" href="bk06notes21.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes22" href="bk06notes22.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes23" href="bk06notes23.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes24" href="bk06notes24.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes25" href="bk06notes25.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes26" href="bk06notes26.html" media-type="application/xhtml+xml"/>
+        <item id="bk06notes27" href="bk06notes27.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes01" href="bk07notes01.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes02" href="bk07notes02.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes03" href="bk07notes03.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes04" href="bk07notes04.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes05" href="bk07notes05.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes06" href="bk07notes06.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes07" href="bk07notes07.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes08" href="bk07notes08.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes09" href="bk07notes09.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes10" href="bk07notes10.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes11" href="bk07notes11.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes12" href="bk07notes12.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes13" href="bk07notes13.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes14" href="bk07notes14.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes15" href="bk07notes15.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes16" href="bk07notes16.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes17" href="bk07notes17.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes18" href="bk07notes18.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes19" href="bk07notes19.html" media-type="application/xhtml+xml"/>
+        <item id="bk07notes20" href="bk07notes20.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes01" href="int01notes01.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes02" href="int01notes02.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes03" href="int01notes03.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes04" href="int01notes04.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes05" href="int01notes05.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes06" href="int01notes06.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes07" href="int01notes07.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes08" href="int01notes08.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes09" href="int01notes09.html" media-type="application/xhtml+xml"/>
+        <item id="int01notes10" href="int01notes10.html" media-type="application/xhtml+xml"/>
+        <item id="f0408-01" href="images/f0408-01.jpg" media-type="image/jpeg"/>
+        <item id="f0409-01" href="images/f0409-01.jpg" media-type="image/jpeg"/>
+        <item id="f0410-01" href="images/f0410-01.jpg" media-type="image/jpeg"/>
+        <item id="f0411-01" href="images/f0411-01.jpg" media-type="image/jpeg"/>
+        <item id="f0412-01" href="images/f0412-01.jpg" media-type="image/jpeg"/>
+        <item id="f0413-01" href="images/f0413-01.jpg" media-type="image/jpeg"/>
+        <item id="f0414-01" href="images/f0414-01.jpg" media-type="image/jpeg"/>
+        <item id="css" href="9780140441758.css" media-type="text/css"/>
+        <item id="pub01" href="images/pub.jpg" media-type="image/jpeg"/>
+        <item id="pt" href="page-template.xpgt" media-type="application/adobe-page-template+xml"/>
+        <item id="map" href="page-map.xml" media-type="application/oebps-page-map+xml"/>
+    </manifest>
+    <spine toc="ncx" page-map="map">
+        <itemref idref="cover"/>
+        <itemref idref="frontmatter"/>
+        <itemref idref="introduction"/>
+        <itemref idref="book01"/>
+        <itemref idref="book02"/>
+        <itemref idref="book03"/>
+        <itemref idref="book04"/>
+        <itemref idref="book05"/>
+        <itemref idref="book06"/>
+        <itemref idref="book07"/>
+        <itemref idref="appendix"/>
+        <itemref idref="map1"/>
+        <itemref idref="map2"/>
+        <itemref idref="map3"/>
+        <itemref idref="map4"/>
+        <itemref idref="map5"/>
+        <itemref idref="map6"/>
+        <itemref idref="map7"/>
+        <itemref idref="index"/>
+        <itemref idref="bk01notes01"/>
+        <itemref idref="bk01notes02"/>
+        <itemref idref="bk01notes03"/>
+        <itemref idref="bk01notes04"/>
+        <itemref idref="bk01notes05"/>
+        <itemref idref="bk01notes06"/>
+        <itemref idref="bk01notes07"/>
+        <itemref idref="bk01notes08"/>
+        <itemref idref="bk01notes09"/>
+        <itemref idref="bk01notes10"/>
+        <itemref idref="bk01notes11"/>
+        <itemref idref="bk01notes12"/>
+        <itemref idref="bk01notes13"/>
+        <itemref idref="bk01notes14"/>
+        <itemref idref="bk01notes15"/>
+        <itemref idref="bk01notes16"/>
+        <itemref idref="bk01notes17"/>
+        <itemref idref="bk01notes18"/>
+        <itemref idref="bk01notes19"/>
+        <itemref idref="bk01notes20"/>
+        <itemref idref="bk01notes21"/>
+        <itemref idref="bk01notes22"/>
+        <itemref idref="bk02notes01"/>
+        <itemref idref="bk02notes02"/>
+        <itemref idref="bk02notes03"/>
+        <itemref idref="bk02notes04"/>
+        <itemref idref="bk02notes05"/>
+        <itemref idref="bk02notes06"/>
+        <itemref idref="bk02notes07"/>
+        <itemref idref="bk02notes08"/>
+        <itemref idref="bk02notes09"/>
+        <itemref idref="bk02notes10"/>
+        <itemref idref="bk02notes11"/>
+        <itemref idref="bk02notes12"/>
+        <itemref idref="bk02notes13"/>
+        <itemref idref="bk02notes14"/>
+        <itemref idref="bk02notes15"/>
+        <itemref idref="bk02notes16"/>
+        <itemref idref="bk02notes17"/>
+        <itemref idref="bk02notes18"/>
+        <itemref idref="bk02notes19"/>
+        <itemref idref="bk02notes20"/>
+        <itemref idref="bk02notes21"/>
+        <itemref idref="bk02notes22"/>
+        <itemref idref="bk02notes23"/>
+        <itemref idref="bk03notes01"/>
+        <itemref idref="bk03notes02"/>
+        <itemref idref="bk03notes03"/>
+        <itemref idref="bk03notes04"/>
+        <itemref idref="bk03notes05"/>
+        <itemref idref="bk03notes06"/>
+        <itemref idref="bk03notes07"/>
+        <itemref idref="bk03notes08"/>
+        <itemref idref="bk03notes09"/>
+        <itemref idref="bk03notes10"/>
+        <itemref idref="bk03notes11"/>
+        <itemref idref="bk03notes12"/>
+        <itemref idref="bk03notes13"/>
+        <itemref idref="bk03notes14"/>
+        <itemref idref="bk03notes15"/>
+        <itemref idref="bk03notes16"/>
+        <itemref idref="bk03notes17"/>
+        <itemref idref="bk03notes18"/>
+        <itemref idref="bk03notes19"/>
+        <itemref idref="bk03notes20"/>
+        <itemref idref="bk03notes21"/>
+        <itemref idref="bk03notes22"/>
+        <itemref idref="bk03notes23"/>
+        <itemref idref="bk03notes24"/>
+        <itemref idref="bk03notes25"/>
+        <itemref idref="bk04notes01"/>
+        <itemref idref="bk04notes02"/>
+        <itemref idref="bk04notes03"/>
+        <itemref idref="bk04notes04"/>
+        <itemref idref="bk04notes05"/>
+        <itemref idref="bk04notes06"/>
+        <itemref idref="bk04notes08"/>
+        <itemref idref="bk04notes10"/>
+        <itemref idref="bk04notes11"/>
+        <itemref idref="bk04notes13"/>
+        <itemref idref="bk04notes14"/>
+        <itemref idref="bk04notes15"/>
+        <itemref idref="bk04notes16"/>
+        <itemref idref="bk04notes213"/>
+        <itemref idref="bk04notes17"/>
+        <itemref idref="bk04notes18"/>
+        <itemref idref="bk04notes20"/>
+        <itemref idref="bk04notes21"/>
+        <itemref idref="bk04notes22"/>
+        <itemref idref="bk04notes23"/>
+        <itemref idref="bk04notes24"/>
+        <itemref idref="bk04notes25"/>
+        <itemref idref="bk04notes26"/>
+        <itemref idref="bk04notes27"/>
+        <itemref idref="bk05notes01"/>
+        <itemref idref="bk05notes02"/>
+        <itemref idref="bk05notes03"/>
+        <itemref idref="bk05notes04"/>
+        <itemref idref="bk05notes05"/>
+        <itemref idref="bk05notes06"/>
+        <itemref idref="bk05notes07"/>
+        <itemref idref="bk05notes08"/>
+        <itemref idref="bk05notes10"/>
+        <itemref idref="bk05notes12"/>
+        <itemref idref="bk05notes13"/>
+        <itemref idref="bk05notes14"/>
+        <itemref idref="bk05notes16"/>
+        <itemref idref="bk05notes17"/>
+        <itemref idref="bk05notes18"/>
+        <itemref idref="bk05notes19"/>
+        <itemref idref="bk05notes20"/>
+        <itemref idref="bk05notes22"/>
+        <itemref idref="bk05notes23"/>
+        <itemref idref="bk05notes25"/>
+        <itemref idref="bk05notes27"/>
+        <itemref idref="bk05notes29"/>
+        <itemref idref="bk05notes30"/>
+        <itemref idref="bk05notes33"/>
+        <itemref idref="bk05notes34"/>
+        <itemref idref="bk05notes35"/>
+        <itemref idref="bk05notes36"/>
+        <itemref idref="bk05notes37"/>
+        <itemref idref="bk05notes39"/>
+        <itemref idref="bk06notes01"/>
+        <itemref idref="bk06notes02"/>
+        <itemref idref="bk06notes03"/>
+        <itemref idref="bk06notes04"/>
+        <itemref idref="bk06notes06"/>
+        <itemref idref="bk06notes08"/>
+        <itemref idref="bk06notes09"/>
+        <itemref idref="bk06notes11"/>
+        <itemref idref="bk06notes12"/>
+        <itemref idref="bk06notes13"/>
+        <itemref idref="bk06notes14"/>
+        <itemref idref="bk06notes16"/>
+        <itemref idref="bk06notes17"/>
+        <itemref idref="bk06notes18"/>
+        <itemref idref="bk06notes19"/>
+        <itemref idref="bk06notes20"/>
+        <itemref idref="bk06notes21"/>
+        <itemref idref="bk06notes22"/>
+        <itemref idref="bk06notes23"/>
+        <itemref idref="bk06notes24"/>
+        <itemref idref="bk06notes25"/>
+        <itemref idref="bk06notes26"/>
+        <itemref idref="bk06notes27"/>
+        <itemref idref="bk07notes01"/>
+        <itemref idref="bk07notes02"/>
+        <itemref idref="bk07notes03"/>
+        <itemref idref="bk07notes04"/>
+        <itemref idref="bk07notes05"/>
+        <itemref idref="bk07notes06"/>
+        <itemref idref="bk07notes07"/>
+        <itemref idref="bk07notes08"/>
+        <itemref idref="bk07notes09"/>
+        <itemref idref="bk07notes10"/>
+        <itemref idref="bk07notes11"/>
+        <itemref idref="bk07notes12"/>
+        <itemref idref="bk07notes13"/>
+        <itemref idref="bk07notes14"/>
+        <itemref idref="bk07notes15"/>
+        <itemref idref="bk07notes16"/>
+        <itemref idref="bk07notes17"/>
+        <itemref idref="bk07notes18"/>
+        <itemref idref="bk07notes19"/>
+        <itemref idref="bk07notes20"/>
+        <itemref idref="int01notes01"/>
+        <itemref idref="int01notes02"/>
+        <itemref idref="int01notes03"/>
+        <itemref idref="int01notes04"/>
+        <itemref idref="int01notes05"/>
+        <itemref idref="int01notes06"/>
+        <itemref idref="int01notes07"/>
+        <itemref idref="int01notes08"/>
+        <itemref idref="int01notes09"/>
+        <itemref idref="int01notes10"/>
+    </spine>
+</package>
