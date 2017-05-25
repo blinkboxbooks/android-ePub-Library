@@ -16,49 +16,16 @@ targetCompatibility = 1.6
 buildscript {
     repositories {
         mavenCentral()
-		
-		maven {
-			url 'http://repo.jfrog.org/artifactory/gradle-plugins-snapshots'
-		}
     }
 
     dependencies {
         // use version 2.0 for Robolectric 2.0
         classpath group: 'com.stanfy.android', name: 'gradle-plugin-java-robolectric', version: '2.0'
-		classpath(group: 'org.jfrog.buildinfo', name: 'build-info-extractor-gradle', version: '2.2.4')
     }
 }
 
 repositories {
 	mavenCentral()
-}
-
-allprojects {
-	apply plugin: 'artifactory'
-}
- 
-artifactory {
-	contextUrl = "${artifactory_contextUrl}"   //The base Artifactory URL if not overridden by the publisher/resolver
-	
-	publish {
-		repository {
-			repoKey = 'mobile-releases'
-			username = "${artifactory_user}"
-			password = "${artifactory_password}"
-			maven = true
-			 
-		}
-	}
-	
-	resolve {
-		repository {
-			repoKey = 'mobile-releases'
-			username = "${artifactory_user}"
-			password = "${artifactory_password}"
-			maven = true
-			 
-		}
-	}
 }
 
 javarob {
